@@ -15,5 +15,9 @@
 <li> Adding a method to map the embarked column to their correct names</li>
 <li> Then using 'argparse' to create Command-Line Interface (CLI) - we were given options of argparse and click</li>
 <li> Adding logging for steps to the script and setting it to output to an INFO file.</li>
-
-
+<p> </p>
+<p>WK3: Taks included:</p>
+<li> Fetching data from a site using API</li>
+<li> Saving this data to a parquet file</li>
+<li> Saving this data to an excel (xlsx) file</li>
+<li> Setting up and scheduling periodic updates</li>
