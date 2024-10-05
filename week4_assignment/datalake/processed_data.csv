@@ -1,0 +1,21 @@
+incident_type,time,player_name,home_score,away_score
+period,90,,5.0,0.0
+injuryTime,90,,,
+substitution,78,,,
+goal,76,,5.0,0.0
+substitution,74,,,
+goal,71,,4.0,0.0
+card,68,Raheem Sterling,,
+substitution,65,,,
+substitution,59,,,
+substitution,57,,,
+substitution,56,,,
+goal,53,,3.0,0.0
+period,45,,2.0,0.0
+injuryTime,45,,,
+inGamePenalty,36,,,
+card,35,Rúben Dias,,
+card,22,Mason Holgate,,
+goal,14,,2.0,0.0
+goal,11,,1.0,0.0
+card,7,Richarlison,,

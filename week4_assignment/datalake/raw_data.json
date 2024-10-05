@@ -1,0 +1,796 @@
+{
+    "incidents": [
+        {
+            "text": "FT",
+            "homeScore": 5,
+            "awayScore": 0,
+            "isLive": false,
+            "time": 90,
+            "addedTime": 999,
+            "timeSeconds": 5400,
+            "reversedPeriodTime": 1,
+            "reversedPeriodTimeSeconds": 0,
+            "incidentType": "period"
+        },
+        {
+            "length": 2,
+            "time": 90,
+            "addedTime": 0,
+            "reversedPeriodTime": 1,
+            "incidentType": "injuryTime"
+        },
+        {
+            "playerIn": {
+                "name": "Niels Nkounkou",
+                "slug": "nkounkou-niels",
+                "shortName": "N. Nkounkou",
+                "position": "M",
+                "jerseyNumber": "29",
+                "height": 184,
+                "userCount": 536,
+                "id": 941179,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 973036800,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0646\u0643\u0648\u0646\u0643\u0648, \u0646\u064a\u064a\u0644\u0633"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0646. \u0646\u0643\u0648\u0646\u0643\u0648"
+                    }
+                }
+            },
+            "playerOut": {
+                "name": "Richarlison",
+                "firstName": "",
+                "lastName": "",
+                "slug": "richarlison",
+                "shortName": "Richarlison",
+                "position": "F",
+                "jerseyNumber": "9",
+                "height": 184,
+                "userCount": 56646,
+                "id": 840217,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 863222400,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0631\u064a\u062a\u0634\u0627\u0631\u0644\u064a\u0633\u0648\u0646"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0631\u064a\u062a\u0634\u0627\u0631\u0644\u064a\u0633\u0648\u0646"
+                    }
+                }
+            },
+            "id": 120277835,
+            "time": 78,
+            "injury": false,
+            "isHome": false,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 13,
+            "incidentType": "substitution"
+        },
+        {
+            "homeScore": 5,
+            "awayScore": 0,
+            "player": {
+                "name": "Sergio Ag\u00fcero",
+                "firstName": "",
+                "lastName": "",
+                "slug": "sergio-aguero",
+                "shortName": "S. Ag\u00fcero",
+                "position": "F",
+                "height": 173,
+                "userCount": 26964,
+                "id": 17094,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 581212800,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0623\u063a\u0648\u064a\u0631\u0648, \u0633\u064a\u0631\u062e\u064a\u0648"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0633. \u0623\u063a\u0648\u064a\u0631\u0648"
+                    }
+                }
+            },
+            "assist1": {
+                "name": "Fernandinho",
+                "firstName": "",
+                "lastName": "",
+                "slug": "fernandinho",
+                "shortName": "Fernandinho",
+                "position": "M",
+                "jerseyNumber": "5",
+                "height": 179,
+                "userCount": 3355,
+                "id": 13630,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 484012800,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0641\u0631\u0646\u0627\u0646\u062f\u064a\u0646\u064a\u0648"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0641\u0631\u0646\u0627\u0646\u062f\u064a\u0646\u064a\u0648"
+                    }
+                }
+            },
+            "footballPassingNetworkAction": [],
+            "id": 146197298,
+            "time": 76,
+            "isHome": true,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 15,
+            "incidentType": "goal"
+        },
+        {
+            "playerIn": {
+                "name": "Ferran Torres",
+                "slug": "ferran-torres",
+                "shortName": "F. Torres",
+                "position": "F",
+                "jerseyNumber": "7",
+                "height": 185,
+                "userCount": 49100,
+                "id": 855833,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 951782400,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u062a\u0648\u0631\u064a\u0633, \u0641\u064a\u0631\u0627\u0646"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0641. \u062a\u0648\u0631\u064a\u0633"
+                    }
+                }
+            },
+            "playerOut": {
+                "name": "Gabriel Jesus",
+                "firstName": "",
+                "lastName": "",
+                "slug": "gabriel-jesus",
+                "shortName": "G. Jesus",
+                "position": "F",
+                "jerseyNumber": "9",
+                "height": 175,
+                "userCount": 104373,
+                "id": 794839,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 860025600,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u062e\u064a\u0633\u0648\u0633, \u063a\u0627\u0628\u0631\u064a\u064a\u0644"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u063a. \u062e\u064a\u0633\u0648\u0633"
+                    }
+                }
+            },
+            "id": 120277832,
+            "time": 74,
+            "injury": false,
+            "isHome": true,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 17,
+            "incidentType": "substitution"
+        },
+        {
+            "homeScore": 4,
+            "awayScore": 0,
+            "player": {
+                "name": "Sergio Ag\u00fcero",
+                "firstName": "",
+                "lastName": "",
+                "slug": "sergio-aguero",
+                "shortName": "S. Ag\u00fcero",
+                "position": "F",
+                "height": 173,
+                "userCount": 26964,
+                "id": 17094,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 581212800,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0623\u063a\u0648\u064a\u0631\u0648, \u0633\u064a\u0631\u062e\u064a\u0648"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0633. \u0623\u063a\u0648\u064a\u0631\u0648"
+                    }
+                }
+            },
+            "assist1": {
+                "name": "Fernandinho",
+                "firstName": "",
+                "lastName": "",
+                "slug": "fernandinho",
+                "shortName": "Fernandinho",
+                "position": "M",
+                "jerseyNumber": "5",
+                "height": 179,
+                "userCount": 3355,
+                "id": 13630,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 484012800,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0641\u0631\u0646\u0627\u0646\u062f\u064a\u0646\u064a\u0648"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0641\u0631\u0646\u0627\u0646\u062f\u064a\u0646\u064a\u0648"
+                    }
+                }
+            },
+            "footballPassingNetworkAction": [],
+            "id": 146197297,
+            "time": 71,
+            "isHome": true,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 20,
+            "incidentType": "goal"
+        },
+        {
+            "player": {
+                "name": "Raheem Sterling",
+                "slug": "raheem-sterling",
+                "shortName": "R. Sterling",
+                "position": "M",
+                "jerseyNumber": "30",
+                "height": 170,
+                "userCount": 54713,
+                "id": 138534,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 786844800,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0633\u062a\u0631\u0644\u064a\u0646\u063a, \u0631\u062d\u064a\u0645"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0631. \u0633\u062a\u0631\u0644\u064a\u0646\u063a"
+                    }
+                }
+            },
+            "playerName": "Raheem Sterling",
+            "reason": "Foul",
+            "rescinded": false,
+            "id": 119854234,
+            "time": 68,
+            "isHome": true,
+            "incidentClass": "yellow",
+            "reversedPeriodTime": 23,
+            "incidentType": "card"
+        },
+        {
+            "playerIn": {
+                "name": "Sergio Ag\u00fcero",
+                "firstName": "",
+                "lastName": "",
+                "slug": "sergio-aguero",
+                "shortName": "S. Ag\u00fcero",
+                "position": "F",
+                "height": 173,
+                "userCount": 26964,
+                "id": 17094,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 581212800,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0623\u063a\u0648\u064a\u0631\u0648, \u0633\u064a\u0631\u062e\u064a\u0648"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0633. \u0623\u063a\u0648\u064a\u0631\u0648"
+                    }
+                }
+            },
+            "playerOut": {
+                "name": "Riyad Mahrez",
+                "slug": "riyad-mahrez",
+                "shortName": "R. Mahrez",
+                "position": "M",
+                "jerseyNumber": "7",
+                "height": 179,
+                "userCount": 79357,
+                "id": 158213,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 667094400,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0645\u062d\u0631\u0632, \u0631\u064a\u0627\u0636"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0631. \u0645\u062d\u0631\u0632"
+                    }
+                }
+            },
+            "id": 120277831,
+            "time": 65,
+            "injury": false,
+            "isHome": true,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 26,
+            "incidentType": "substitution"
+        },
+        {
+            "playerIn": {
+                "name": "Bernard",
+                "slug": "bernard",
+                "shortName": "Bernard",
+                "position": "M",
+                "jerseyNumber": "20",
+                "height": 164,
+                "userCount": 2192,
+                "id": 241488,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 715910400,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0628\u0631\u0646\u0627\u0631\u062f"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0628\u0631\u0646\u0627\u0631\u062f"
+                    }
+                }
+            },
+            "playerOut": {
+                "name": "Gylfi Sigur\u00f0sson",
+                "slug": "gylfi-sigurdsson",
+                "shortName": "G. Sigur\u00f0sson",
+                "position": "M",
+                "jerseyNumber": "23",
+                "height": 186,
+                "userCount": 1353,
+                "id": 43192,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 621216000,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0633\u064a\u063a\u0648\u0631\u062f\u0633\u0648\u0646, \u062c\u064a\u0644\u0641\u064a"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u062c. \u0633\u064a\u063a\u0648\u0631\u062f\u0633\u0648\u0646"
+                    }
+                }
+            },
+            "id": 120277834,
+            "time": 59,
+            "injury": false,
+            "isHome": false,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 32,
+            "incidentType": "substitution"
+        },
+        {
+            "playerIn": {
+                "name": "Alex Iwobi",
+                "slug": "alex-iwobi",
+                "shortName": "A. Iwobi",
+                "position": "M",
+                "jerseyNumber": "17",
+                "height": 183,
+                "userCount": 5067,
+                "id": 352770,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 831081600,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0623\u0648\u0648\u0628\u064a, \u0623\u0644\u064a\u0643\u0633"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0623. \u0623\u0648\u0648\u0628\u064a"
+                    }
+                }
+            },
+            "playerOut": {
+                "name": "Abdoulaye Doucour\u00e9",
+                "slug": "abdoulaye-doucoure",
+                "shortName": "A. Doucour\u00e9",
+                "position": "F",
+                "jerseyNumber": "16",
+                "height": 182,
+                "userCount": 1992,
+                "id": 96535,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 725846400,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u062f\u0648\u0643\u0648\u0631, \u0639\u0628\u062f \u0627\u0644\u0644\u0647"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0639. \u0627. \u062f\u0648\u0643\u0648\u0631"
+                    }
+                }
+            },
+            "id": 120277833,
+            "time": 57,
+            "injury": false,
+            "isHome": false,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 34,
+            "incidentType": "substitution"
+        },
+        {
+            "playerIn": {
+                "name": "Rodri",
+                "firstName": "",
+                "lastName": "",
+                "slug": "rodri",
+                "shortName": "Rodri",
+                "position": "M",
+                "jerseyNumber": "16",
+                "height": 191,
+                "userCount": 73440,
+                "id": 827606,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 835401600,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0631\u0648\u062f\u0631\u064a"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0631\u0648\u062f\u0631\u064a"
+                    }
+                }
+            },
+            "playerOut": {
+                "name": "Phil Foden",
+                "firstName": "",
+                "lastName": "",
+                "slug": "phil-foden",
+                "shortName": "P. Foden",
+                "position": "M",
+                "jerseyNumber": "47",
+                "height": 171,
+                "userCount": 178507,
+                "id": 859765,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 959472000,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0641\u0648\u062f\u0646, \u0641\u064a\u0644\u064a\u0628"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0641. \u0641\u0648\u062f\u0646"
+                    }
+                }
+            },
+            "id": 120277830,
+            "time": 56,
+            "injury": false,
+            "isHome": true,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 35,
+            "incidentType": "substitution"
+        },
+        {
+            "homeScore": 3,
+            "awayScore": 0,
+            "player": {
+                "name": "Phil Foden",
+                "firstName": "",
+                "lastName": "",
+                "slug": "phil-foden",
+                "shortName": "P. Foden",
+                "position": "M",
+                "jerseyNumber": "47",
+                "height": 171,
+                "userCount": 178507,
+                "id": 859765,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 959472000,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0641\u0648\u062f\u0646, \u0641\u064a\u0644\u064a\u0628"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0641. \u0641\u0648\u062f\u0646"
+                    }
+                }
+            },
+            "assist1": {
+                "name": "Raheem Sterling",
+                "slug": "raheem-sterling",
+                "shortName": "R. Sterling",
+                "position": "M",
+                "jerseyNumber": "30",
+                "height": 170,
+                "userCount": 54713,
+                "id": 138534,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 786844800,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0633\u062a\u0631\u0644\u064a\u0646\u063a, \u0631\u062d\u064a\u0645"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0631. \u0633\u062a\u0631\u0644\u064a\u0646\u063a"
+                    }
+                }
+            },
+            "footballPassingNetworkAction": [],
+            "id": 146197296,
+            "time": 53,
+            "isHome": true,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 38,
+            "incidentType": "goal"
+        },
+        {
+            "text": "HT",
+            "homeScore": 2,
+            "awayScore": 0,
+            "isLive": false,
+            "time": 45,
+            "addedTime": 999,
+            "timeSeconds": 2700,
+            "reversedPeriodTime": 1,
+            "reversedPeriodTimeSeconds": 0,
+            "incidentType": "period"
+        },
+        {
+            "length": 2,
+            "time": 45,
+            "addedTime": 0,
+            "reversedPeriodTime": 1,
+            "incidentType": "injuryTime"
+        },
+        {
+            "time": 36,
+            "player": {
+                "name": "Gylfi Sigur\u00f0sson",
+                "slug": "gylfi-sigurdsson",
+                "shortName": "G. Sigur\u00f0sson",
+                "position": "M",
+                "jerseyNumber": "23",
+                "height": 186,
+                "userCount": 1353,
+                "id": 43192,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 621216000,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0633\u064a\u063a\u0648\u0631\u062f\u0633\u0648\u0646, \u062c\u064a\u0644\u0641\u064a"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u062c. \u0633\u064a\u063a\u0648\u0631\u062f\u0633\u0648\u0646"
+                    }
+                }
+            },
+            "description": "Goalkeeper save",
+            "id": 118344133,
+            "incidentType": "inGamePenalty",
+            "isHome": false,
+            "incidentClass": "missed",
+            "reason": "goalkeeperSave",
+            "reversedPeriodTime": 10
+        },
+        {
+            "player": {
+                "name": "R\u00faben Dias",
+                "firstName": "",
+                "lastName": "",
+                "slug": "ruben-dias",
+                "shortName": "R. Dias",
+                "position": "D",
+                "jerseyNumber": "3",
+                "height": 188,
+                "userCount": 37121,
+                "id": 318941,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 863568000,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0631\u0648\u0628\u0646 \u062f\u064a\u0627\u0633"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0631. \u062f\u064a\u0627\u0633"
+                    }
+                }
+            },
+            "playerName": "R\u00faben Dias",
+            "reason": "Foul",
+            "rescinded": false,
+            "id": 119854233,
+            "time": 35,
+            "isHome": true,
+            "incidentClass": "yellow",
+            "reversedPeriodTime": 11,
+            "incidentType": "card"
+        },
+        {
+            "player": {
+                "name": "Mason Holgate",
+                "slug": "mason-holgate",
+                "shortName": "M. Holgate",
+                "position": "D",
+                "jerseyNumber": "3",
+                "height": 187,
+                "userCount": 475,
+                "id": 781544,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 845942400,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0647\u0648\u0644\u062c\u0627\u062a, \u0645\u0627\u0633\u0648\u0646"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0645. \u0647\u0648\u0644\u062c\u0627\u062a"
+                    }
+                }
+            },
+            "playerName": "Mason Holgate",
+            "reason": "Foul",
+            "rescinded": false,
+            "id": 119854236,
+            "time": 22,
+            "isHome": false,
+            "incidentClass": "yellow",
+            "reversedPeriodTime": 24,
+            "incidentType": "card"
+        },
+        {
+            "homeScore": 2,
+            "awayScore": 0,
+            "player": {
+                "name": "Gabriel Jesus",
+                "firstName": "",
+                "lastName": "",
+                "slug": "gabriel-jesus",
+                "shortName": "G. Jesus",
+                "position": "F",
+                "jerseyNumber": "9",
+                "height": 175,
+                "userCount": 104373,
+                "id": 794839,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 860025600,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u062e\u064a\u0633\u0648\u0633, \u063a\u0627\u0628\u0631\u064a\u064a\u0644"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u063a. \u062e\u064a\u0633\u0648\u0633"
+                    }
+                }
+            },
+            "assist1": {
+                "name": "Kevin De Bruyne",
+                "slug": "kevin-de-bruyne",
+                "shortName": "K. De Bruyne",
+                "position": "M",
+                "jerseyNumber": "17",
+                "height": 181,
+                "userCount": 334330,
+                "id": 70996,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 678067200,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u062f\u064a \u0628\u0631\u0648\u064a\u0646, \u0643\u064a\u0641\u064a\u0646"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0643. \u062f. \u0628\u0631\u0648\u064a\u0646"
+                    }
+                }
+            },
+            "footballPassingNetworkAction": [],
+            "id": 146197295,
+            "time": 14,
+            "isHome": true,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 32,
+            "incidentType": "goal"
+        },
+        {
+            "homeScore": 1,
+            "awayScore": 0,
+            "player": {
+                "name": "Kevin De Bruyne",
+                "slug": "kevin-de-bruyne",
+                "shortName": "K. De Bruyne",
+                "position": "M",
+                "jerseyNumber": "17",
+                "height": 181,
+                "userCount": 334330,
+                "id": 70996,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 678067200,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u062f\u064a \u0628\u0631\u0648\u064a\u0646, \u0643\u064a\u0641\u064a\u0646"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0643. \u062f. \u0628\u0631\u0648\u064a\u0646"
+                    }
+                }
+            },
+            "assist1": {
+                "name": "Riyad Mahrez",
+                "slug": "riyad-mahrez",
+                "shortName": "R. Mahrez",
+                "position": "M",
+                "jerseyNumber": "7",
+                "height": 179,
+                "userCount": 79357,
+                "id": 158213,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 667094400,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0645\u062d\u0631\u0632, \u0631\u064a\u0627\u0636"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0631. \u0645\u062d\u0631\u0632"
+                    }
+                }
+            },
+            "footballPassingNetworkAction": [],
+            "id": 146197294,
+            "time": 11,
+            "isHome": true,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 35,
+            "incidentType": "goal"
+        },
+        {
+            "player": {
+                "name": "Richarlison",
+                "firstName": "",
+                "lastName": "",
+                "slug": "richarlison",
+                "shortName": "Richarlison",
+                "position": "F",
+                "jerseyNumber": "9",
+                "height": 184,
+                "userCount": 56646,
+                "id": 840217,
+                "marketValueCurrency": "EUR",
+                "dateOfBirthTimestamp": 863222400,
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0631\u064a\u062a\u0634\u0627\u0631\u0644\u064a\u0633\u0648\u0646"
+                    },
+                    "shortNameTranslation": {
+                        "ar": "\u0631\u064a\u062a\u0634\u0627\u0631\u0644\u064a\u0633\u0648\u0646"
+                    }
+                }
+            },
+            "playerName": "Richarlison",
+            "reason": "Foul",
+            "rescinded": false,
+            "id": 119854235,
+            "time": 7,
+            "isHome": false,
+            "incidentClass": "yellow",
+            "reversedPeriodTime": 39,
+            "incidentType": "card"
+        }
+    ],
+    "home": {
+        "goalkeeperColor": {
+            "primary": "99ff99",
+            "number": "000000",
+            "outline": "99ff99",
+            "fancyNumber": "222226"
+        },
+        "playerColor": {
+            "primary": "5badff",
+            "number": "ffffff",
+            "outline": "5badff",
+            "fancyNumber": "222226"
+        }
+    },
+    "away": {
+        "goalkeeperColor": {
+            "primary": "66ff00",
+            "number": "000000",
+            "outline": "66ff00",
+            "fancyNumber": "222226"
+        },
+        "playerColor": {
+            "primary": "070707",
+            "number": "ffffff",
+            "outline": "070707",
+            "fancyNumber": "ffffff"
+        }
+    }
+}
